@@ -1,4 +1,4 @@
-name: Node test
+name: Snyk Node
 on: push
 jobs:
   security:

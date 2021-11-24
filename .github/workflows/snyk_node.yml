@@ -1,4 +1,7 @@
+# Use Snyk to test open source dependencies in Node projects
+
 name: Snyk Node
+
 on:
   push:
     branches: [ master ]
@@ -7,8 +10,9 @@ on:
     branches: [ master ]
   schedule:
     - cron: '29 3 * * 4'
+    
 jobs:
-  security:
+  snyk-node:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master

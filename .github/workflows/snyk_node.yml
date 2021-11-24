@@ -1,6 +1,6 @@
 # Use Snyk to test open source dependencies in Node projects
 
-name: Snyk Node
+name: Snyk Open Source (Node)
 
 on:
   push:

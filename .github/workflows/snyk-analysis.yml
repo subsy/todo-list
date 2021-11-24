@@ -1,4 +1,4 @@
-# Use Snyk to test open source dependencies in Node and maven,  projects
+# Use Snyk to test open source dependencies in Node, Maven and Infrastructure as Code projects
 
 name: Snyk
 

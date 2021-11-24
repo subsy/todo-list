@@ -1,6 +1,6 @@
 # Use Snyk to test open source dependencies in Maven projects
 
-name: Snyk
+name: Snyk Maven
 
 on:
   push:

@@ -15,7 +15,7 @@
   "dependencies": {
     "@aureooms/js-pseudo-random": "2.0.0",
     "express": "3.21.2",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "node-fetch": "1.6.3",
     "react": "^15.3.2",
     "react-bootstrap": "^0.31.0",

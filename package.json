@@ -14,7 +14,7 @@
   "homepage": "https://github.com/mstine/todo-list",
   "dependencies": {
     "@aureooms/js-pseudo-random": "2.0.0",
-    "express": "3.21.2",
+    "express": "4.16.0",
     "lodash": "4.17.4",
     "node-fetch": "1.6.3",
     "react": "^15.3.2",
